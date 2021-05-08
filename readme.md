@@ -1,2 +1,2 @@
 # Todo
-- Basic Django todo app with CRUD functionality
+- Basic Django todo app with CRUD functionality.
